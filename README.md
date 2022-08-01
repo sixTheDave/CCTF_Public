@@ -11,12 +11,15 @@ The story of CCTF: From crypto hackers' vision to the biggest web3 hacking compe
 
 ## Vol9. Round 1. information
 
-Start date: 2022 August 25, 10:00, Singapore Time - UTC/GMT +8
-Finish date: 2022 August 26., 16:00, Singapore Time - UTC/GMT +8
+**Start date**: 2022 August 25, 10:00, Singapore Time - UTC/GMT +8
 
-Global location link: TBA 
+**Finish date**: 2022 August 26., 16:00, Singapore Time - UTC/GMT +8
 
-Physical location: HiTB Conference, InterContinental Singapore, 80 Middle Rd, Singapore 188966
+**Global location link**: TBA (flags are to be submitted to the CCTF smart contract)
+
+**Physical location**: HiTB Conference, InterContinental Singapore, 80 Middle Rd, Singapore 188966
+
+**What you need to play**: Your own skills/tools and a Metamask wallet with balance from faucet for submitting flags.
 
 More info TBA
 
