@@ -11,6 +11,10 @@ The story of CCTF: From crypto hackers' vision to the biggest web3 hacking compe
 
 ## Vol9. Round 1. information
 
+**Subscribe for updates:** [https://www.cognitoforms.com/UnconditionalPeace/CCTFSubscribe](https://www.cognitoforms.com/UnconditionalPeace/CCTFSubscribe)
+
+**Register and submit flags:** //smart contract address TBA//
+
 **Start date**: 2022 August 25, 10:00, Singapore Time - UTC/GMT +8
 
 **Finish date**: 2022 August 26., 16:00, Singapore Time - UTC/GMT +8
@@ -19,9 +23,15 @@ The story of CCTF: From crypto hackers' vision to the biggest web3 hacking compe
 
 **Physical location**: HiTB Conference, InterContinental Singapore, 80 Middle Rd, Singapore 188966
 
-**What you need to play**: Your own skills/tools and a Metamask wallet with balance from faucet for submitting flags.
+**What you need to play**: Your own skills/tools and a MetaMask or other Ethereum compatible wallet to play. You'll need to submit flags to a smart contract.
 
-More info TBA
+!! CCTF from vol9 is running on a decentralized system (no more ctfd) !!
+
+## Vol9. Round 2. information - TBA
+
+Target date: Q4 2022
+=======
+
 
 
 ## Vol8. Round 2. information - TBA
