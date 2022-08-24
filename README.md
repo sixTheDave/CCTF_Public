@@ -13,7 +13,7 @@ The story of CCTF: From crypto hackers' vision to the biggest web3 hacking compe
 
 **Subscribe for updates:** [https://www.cognitoforms.com/UnconditionalPeace/CCTFSubscribe](https://www.cognitoforms.com/UnconditionalPeace/CCTFSubscribe)
 
-**Register and submit flags:** //smart contract address TBA//
+**Register and submit flags:** 0x36a1424da63a50627863d8f65c0669da7347814a / on Polygon
 
 **Start date**: 2022 August 25, 10:00, Singapore Time - UTC/GMT +8
 
@@ -30,10 +30,3 @@ The story of CCTF: From crypto hackers' vision to the biggest web3 hacking compe
 ## Vol9. Round 2. information - TBA
 
 Target date: Q4 2022
-=======
-
-
-
-## Vol8. Round 2. information - TBA
-
-Target date: 2022 October
