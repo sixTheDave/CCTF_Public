@@ -1,15 +1,13 @@
 ## CCTF vol9 Info
 Max points = 4096
 
-Registration => https://polygonscan.com/address/0x5c9d7d00880a6dda6fc0a27ea682f513eab8045a#writeContract
+Registration => https://polygonscan.com/address/0x36a1424da63a50627863d8f65c0669da7347814a
 
 How to and rules => https://cryptoctf.org/2022/08/22/decentralized-ctf/
 
 If you have not found a private key, but a standard string, use one of this API:
    http://209.250.246.26:6789/get?flag=CCTF{test}
    fyord7wc4lzrgp4g4v2z7nhftoymolmmhmuixgkmnvo6f2bvlqdtjjid.onion
-
-
 
 Start date, Day 0: 2022 August 25, 10:00, Singapore Time - UTC/GMT +8
 
